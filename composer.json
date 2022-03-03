@@ -1,0 +1,25 @@
+{
+   "require": 
+   {
+        "phpmailer/phpmailer": "^5.2",
+      "pusher/pusher-php-server": "^4.1",
+    },
+
+    "autoload": {
+
+      "classmap": [
+
+          "Classes"
+
+      ]
+
+    },
+
+
+    "authors": [
+        {
+            "name": "Sahil Batra",
+            "email": "sahilbatra158@gmail.com"
+        }
+    ]
+}
