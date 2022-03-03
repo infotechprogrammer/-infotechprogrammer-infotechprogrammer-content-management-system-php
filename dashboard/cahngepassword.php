@@ -26,7 +26,7 @@ $user_role = $row['user_role'];
 <form action="" method="post">
 
 <div class="form-group">
-	<label for="user_password">Username:</label><p><?php echo "{$_SESSION['username']}"; ?></p>
+	<label for="user_password">Username:</label><><?php echo "{$_SESSION['username']}"; ?></p>
 </div>	
 
 <div class="form-group">
